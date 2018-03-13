@@ -1,2 +1,2 @@
 ### computer_graphics  
-##### coursework for computer graphics  
+coursework for *computer graphics* 
